@@ -1,2 +1,2 @@
-# New-trex
-The popular trex game with new graphics and color scheme
+# Trex-
+Chrome T-Rex game created using p5.play
